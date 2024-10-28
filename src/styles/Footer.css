@@ -13,9 +13,10 @@ body {
     color: var(--text)
 }
 
-.header-container {
+.footer-container {
     display: flex;
     position: relative;
     padding: 20px;
-    color: var(--light)
+    color: var(--light);
+    font-size: 5em;
 }
