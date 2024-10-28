@@ -1,5 +1,15 @@
+:root {
+    --gunmetal: #092327;
+    --slate-gray: #0b5351;
+    --sea-green: #00a9a5;
+    --force-blue: #4e8098;
+    --sky-blue: #90c2e7;
+}
+
 .header-container {
     display: flex;
-    background-color: black;
-    position: relative
+    background-color: var(--gunmetal);
+    position: relative;
+    padding: 20px;
+    color: var(--sky-blue)
 }
